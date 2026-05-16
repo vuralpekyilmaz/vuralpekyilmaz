@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Vural
+# 👋 Vural PEKYILMAZ
 
 - MT5 Manager API, Web API entegrasyonu
 - MQL5 Expert Advisors
