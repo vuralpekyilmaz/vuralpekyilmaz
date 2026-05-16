@@ -17,7 +17,6 @@
 
 ## 💻 Tech Stack
 
-### Languages
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
