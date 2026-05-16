@@ -43,5 +43,4 @@
 ---
 
 ## ✨ Öne Çıkan Projeler
-- [**vuralpekyilmaz.github.io**](https://github.com/vuralpekyilmaz/vuralpekyilmaz.github.io) → Hugo ile kişisel web sitesi
-- [**hugowebsite**](https://github.com/vuralpekyilmaz/hugowebsite) → Hugo template denemeleri
+- [**vuralpekyilmaz.github.io**](https://github.com/vuralpekyilmaz/vuralpekyilmaz.github.io) → Hugo Paper Mode
