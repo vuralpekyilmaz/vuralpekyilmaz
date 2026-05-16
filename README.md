@@ -15,12 +15,6 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuralpekyilmaz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vuralpekyilmaz&layout=compact&theme=radical)
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
