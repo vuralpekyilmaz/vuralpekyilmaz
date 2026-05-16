@@ -5,13 +5,6 @@
 - Blockchain technology.
 - Currently exploring advanced cloud architectures and Web3
 - Always eager to learn and collaborate on innovative projects
----
-
-## 🌐 Sosyal Bağlantılar
-[![GitHub](https://img.shields.io/badge/GitHub-vuralpekyilmaz-black?logo=github)](https://github.com/vuralpekyilmaz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vuralpekyilmaz-blue?logo=linkedin)](https://linkedin.com/in/vuralpekyilmaz)
-[![Twitter](https://img.shields.io/badge/Twitter-pekyilmazvural-1DA1F2?logo=twitter)](https://twitter.com/pekyilmazvural)
-[![Website](https://img.shields.io/badge/Website-vuralpekyilmaz.github.io-green?logo=firefox)](https://vuralpekyilmaz.github.io)
 
 ---
 
@@ -39,6 +32,14 @@
 ### Tools & Platforms
 ![Bruno](https://img.shields.io/badge/Buruno-%2344A833.svg?style=for-the-badge&logo=buruno&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🌐 Sosyal Bağlantılar
+[![GitHub](https://img.shields.io/badge/GitHub-vuralpekyilmaz-black?logo=github)](https://github.com/vuralpekyilmaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vuralpekyilmaz-blue?logo=linkedin)](https://linkedin.com/in/vuralpekyilmaz)
+[![Twitter](https://img.shields.io/badge/Twitter-pekyilmazvural-1DA1F2?logo=twitter)](https://twitter.com/pekyilmazvural)
+[![Website](https://img.shields.io/badge/Website-vuralpekyilmaz.github.io-green?logo=firefox)](https://vuralpekyilmaz.github.io)
 
 ---
 
