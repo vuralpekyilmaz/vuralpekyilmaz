@@ -33,7 +33,7 @@
 ---
 
 ## 🌐 Sosyal Bağlantılar
-[![GitHub](https://img.shields.io/badge/GitHub-vuralpekyilmaz-181717?logo=github&logoColor=white)](https://github.com/vuralpekyilmaz)
+[![GitHub](https://img.shields.io/badge/GitHub-vuralpekyilmaz-4285F4?logo=github&logoColor=white)](https://github.com/vuralpekyilmaz)
 [![Website](https://img.shields.io/badge/Website-vuralpekyilmaz.github.io-4285F4?logo=chrome&logoColor=white)](https://vuralpekyilmaz.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vuralpekyilmaz-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vuralpekyilmaz)
 
