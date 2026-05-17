@@ -33,9 +33,9 @@
 ---
 
 ## 🌐 Sosyal Bağlantılar
-[![GitHub](https://img.shields.io/badge/GitHub-vuralpekyilmaz-green?logo=github)](https://github.com/vuralpekyilmaz)
-[![Website](https://img.shields.io/badge/Website-vuralpekyilmaz.github.io-green?logo=firefox)](https://vuralpekyilmaz.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vuralpekyilmaz-blue?logo=linkedin)](https://linkedin.com/in/vuralpekyilmaz)
+[![GitHub](https://img.shields.io/badge/GitHub-vuralpekyilmaz-181717?logo=github&logoColor=white)](https://github.com/vuralpekyilmaz)
+[![Website](https://img.shields.io/badge/Website-vuralpekyilmaz.github.io-4285F4?logo=chrome&logoColor=white)](https://vuralpekyilmaz.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vuralpekyilmaz-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vuralpekyilmaz)
 
 ---
 
