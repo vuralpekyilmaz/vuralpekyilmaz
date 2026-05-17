@@ -1,11 +1,8 @@
 # 👋 Vural PEKYILMAZ
 
-- MT5 Manager API, Web API entegrasyonu
+#MetaTrader5
+- MT5 Manager API, Web API
 - MQL5 Expert Advisors
-- Blockchain technology.
-- Currently exploring advanced cloud architectures and Web3
-- Always eager to learn and collaborate on innovative projects
-
 ---
 
 ## 💻 Tech Stack
