@@ -43,4 +43,4 @@
 - [**vuralpekyilmaz.github.io**](https://github.com/vuralpekyilmaz/vuralpekyilmaz.github.io) → Hugo Paper Mode
 
 - [**CoinKurt**](https://coinkurt.com) → Bitcoin, Ethereum ve binlerce kripto paranın canlı fiyatlarını, piyasa değerlerini, işlem hacimlerini, borsaları ve kripto haberlerini CoinKurt ile takip edin.
-- [**CoinPazar**](https://coinpazar.appazar.com/) → Tüm Kripto Borsalarını Tek Ekrandan Yönetin.
+
