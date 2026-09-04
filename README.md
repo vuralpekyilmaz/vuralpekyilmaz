@@ -41,6 +41,7 @@
 
 ## ✨ Öne Çıkan Projeler
 - [**vuralpekyilmaz.github.io**](https://github.com/vuralpekyilmaz/vuralpekyilmaz.github.io) → Hugo Paper Mode
+Fast, minimalist static site generator written in Go. Supports multilingual routing, ultra‑low latency builds, and developer‑friendly customization.
 
 - [**CoinKurt**](https://coinkurt.com) → Bitcoin, Ethereum ve binlerce kripto paranın canlı fiyatlarını, piyasa değerlerini, işlem hacimlerini, borsaları ve kripto haberlerini CoinKurt ile takip edin.
 
