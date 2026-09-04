@@ -1,5 +1,21 @@
 # 👋 Vural PEKYILMAZ
 
+## 🚀 About Me
+
+I specialize in algorithmic trading and automated strategy development using **MetaTrader 5** and the **MQL5** language.
+
+My work spans the full spectrum of trading automation from designing and deploying **Expert Advisors (EAs)** and custom indicators to building robust trading scripts tailored for diverse market conditions.
+
+I bring strong expertise in margin and risk management calculations, order execution workflows, and advanced backtesting, ensuring strategies are both accurate and optimized for performance.
+
+Beyond technical implementation, I focus on transparency and reliability, enabling traders to manage positions effectively and make informed decisions in volatile markets.
+
+---
+
+🔭 I have a passion for blockchain technology  
+🌱 Currently exploring advanced cloud architectures and Web3  
+💡 Always eager to learn and collaborate on innovative projects
+
 ## 💻 Tech Stack
 
 ### Languages & Tools
