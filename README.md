@@ -1,10 +1,5 @@
 # 👋 Vural PEKYILMAZ
 
-#MetaTrader5
-- MT5 Manager API, Web API
-- MQL5 Expert Advisors
----
-
 ## 💻 Tech Stack
 
 ### Languages & Tools
@@ -20,6 +15,7 @@
 ### DevOps
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -29,6 +25,15 @@
 ### Tools & Platforms
 ![Bruno](https://img.shields.io/badge/Buruno-%2344A833.svg?style=for-the-badge&logo=buruno&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## ⚡ MetaTrader 5
+
+![MT5](https://img.shields.io/badge/MetaTrader%205-1E90FF?style=for-the-badge&logo=metatrader&logoColor=white)
+
+- **MT5 Manager API, Web API**
+- **MQL5 Expert Advisors**
 
 ---
 
